@@ -41,33 +41,6 @@ acknowledgements: ""
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.stefandecker.org/">
-      <img class="people-pic" src="{{ "/static/img/people/stefen.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.stefandecker.org/">Stefan Decker</a>
-      <h6>RWTH Aachen</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://jens-lehmann.org/profile/">
-      <img class="people-pic" src="{{ "/static/img/people/Jens.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://jens-lehmann.org/profile/">Jens Lehmann</a>
-      <h6> Amazon AGI</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal">
-      <img class="people-pic" src="https://www.tib.eu/fileadmin/_processed_/b/6/csm_vidal-800x800_25aafd5504.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal">Maria-Esther Vidal</a>
-      <h6>Leibniz University Hannover</h6>
-    </div>
-  </div>
     <div class="col-xs-6 col-lg-3">
     <a href="https://collarad.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/Diego.jpeg" | prepend:site.baseurl }}">
@@ -77,11 +50,38 @@ acknowledgements: ""
       <h6> Fraunhofer FIT</h6>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://nimi-ai.com/sahar-vahdati/">
+      <img class="people-pic" src="https://nimi-ai.com/wp-content/uploads/2022/11/Sahar_Workpage_InfAI-e1604081552642.png">
+    </a>
+    <div class="people-name">
+      <a href="https://nimi-ai.com/sahar-vahdati/">Sahar Vahdati</a>
+      <h6>TU Dresden</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://www.linkedin.com/in/moritz-busch-23a955205/?originalSubdomain=de">
+      <img class="people-pic" src="{{ "/static/img/people/moritz.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/moritz-busch-23a955205/?originalSubdomain=de">Moritz Busch</a>
+      <h6> Fraunhofer FIT</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://www.linkedin.com/in/abhishek-nadgeri/?trk=public_profile_browsemap&originalSubdomain=de">
+      <img class="people-pic" src="{{ "/static/img/people/Abhishek.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/abhishek-nadgeri/?trk=public_profile_browsemap&originalSubdomain=de">Abhishek Nadgeri</a>
+      <h6>RWTH Aachen/Fraunhofer FIT</h6>
+    </div>
+  </div>
 </div>
 
 <hr />
 
-<div class="row" id="cfp">
+<div class="row" id="format">
   <div class="col-xs-12">
     <h2>Tutorial Format</h2>
   </div>
@@ -125,7 +125,7 @@ acknowledgements: ""
 <!-- Submission -->
 
   
-<div class="col-xs-12"  id="dates">
+<div class="col-xs-12"  id="time">
     <h2>Tutorial Time</h2>  
 </div>
 
@@ -163,6 +163,33 @@ acknowledgements: ""
 </div>
 
 <div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.stefandecker.org/">
+      <img class="people-pic" src="{{ "/static/img/people/stefen.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.stefandecker.org/">Stefan Decker</a>
+      <h6>RWTH Aachen</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://jens-lehmann.org/profile/">
+      <img class="people-pic" src="{{ "/static/img/people/Jens.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jens-lehmann.org/profile/">Jens Lehmann</a>
+      <h6> Amazon AGI</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal">
+      <img class="people-pic" src="https://www.tib.eu/fileadmin/_processed_/b/6/csm_vidal-800x800_25aafd5504.jpg">
+    </a>
+    <div class="people-name">
+      <a href="https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal">Maria-Esther Vidal</a>
+      <h6>Leibniz University Hannover</h6>
+    </div>
+  </div>
     <div class="col-xs-6 col-lg-3">
     <a href="https://collarad.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/Diego.jpeg" | prepend:site.baseurl }}">
@@ -172,33 +199,7 @@ acknowledgements: ""
       <h6> Fraunhofer FIT</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://nimi-ai.com/sahar-vahdati/">
-      <img class="people-pic" src="https://nimi-ai.com/wp-content/uploads/2022/11/Sahar_Workpage_InfAI-e1604081552642.png">
-    </a>
-    <div class="people-name">
-      <a href="https://nimi-ai.com/sahar-vahdati/">Sahar Vahdati</a>
-      <h6>TU Dresden</h6>
-    </div>
-  </div>
-    <div class="col-xs-6 col-lg-3">
-    <a href="https://www.linkedin.com/in/moritz-busch-23a955205/?originalSubdomain=de">
-      <img class="people-pic" src="{{ "/static/img/people/moritz.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/moritz-busch-23a955205/?originalSubdomain=de">Moritz Busch</a>
-      <h6> Fraunhofer FIT</h6>
-    </div>
-  </div>
-    <div class="col-xs-6 col-lg-3">
-    <a href="https://www.linkedin.com/in/abhishek-nadgeri/?trk=public_profile_browsemap&originalSubdomain=de">
-      <img class="people-pic" src="{{ "/static/img/people/Abhishek.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.linkedin.com/in/abhishek-nadgeri/?trk=public_profile_browsemap&originalSubdomain=de">Abhishek Nadgeri</a>
-      <h6>RWTH Aachen/Fraunhofer FIT</h6>
-    </div>
-  </div>
-
-
 </div>
+
+
+
