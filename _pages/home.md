@@ -116,7 +116,7 @@ acknowledgements: ""
   <li><b>Group Discussion : </b>Participants will engage in a group discussion to share challenges and potential solutions in implementing KELLMs in their own projects. This collaborative session will provide valuable insights and foster knowledge exchange among participants.</li>
  </ul>
  <p>
-   For questions about the tutorial, please contact workshop organizers via <a href="nl-reasoning@googlegroups.com">nl-reasoning@googlegroups.com</a>.
+   For questions about the tutorial, please contact workshop organizers via <a href="kellm@googlegroups.com">kellm@googlegroups.com</a>.
 
   </p>
   </div>
