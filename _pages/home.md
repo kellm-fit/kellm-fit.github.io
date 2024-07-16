@@ -103,7 +103,7 @@ acknowledgements: ""
   <li>Neuro-symbolic reasoning;</li>
           </ul>
       </p>-->
-      <p><b>Slot 1: Introduction to Knowledge Graphs and Large Language Models</b></p>
+      <p><b>Slot 1: Introduction to Knowledge Graphs, Large Language Models, and RAG systems</b></p>
   
   <ul>
     <li><b>Overview : </b>This session provides an overview of the fundamental concepts of KGs and LLMs. Participants will learn about the structure and components of KGs, including ontologies and taxonomies, and how these structured knowledge sources can enhance the capabilities of LLMs. The session will also cover the limitations of LLMs in knowledge-intensive tasks and the role of RAG systems in addressing these challenges.</li>
