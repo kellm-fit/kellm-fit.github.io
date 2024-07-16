@@ -1,7 +1,7 @@
 ---
 layout: project
-urltitle:  "Knowledge Enhanced Retrivel Augmented Generation Langauge Model"
-title: "Knowledge Enhanced Retrivel Augmented Generation Langauge Model"
+urltitle:  "Knowledge Enhanced Retrieval Augmented Generation for Large Language Models"
+title: "Knowledge Enhanced Retrieval Augmented Generation for Large Language Models"
 categories: ISWC tutorial
 permalink: /
 bibtex: true
@@ -12,7 +12,7 @@ acknowledgements: ""
 <!-- <br /> -->
 <!-- <div class="row" id="title">
   <div class="col-xs-12">
-    <center><h1>Knoledge Enhanced Retrivel Augmented Generation Langauge Model</h1></center>
+    <center><h1>Knowledge Enhanced Retrieval Augmented Generation for Large Language Models</h1></center>
     <center><h2>July 13-14, 2023 @ ACL 2023. Toronto, Canada.</h2></center>
  
     
