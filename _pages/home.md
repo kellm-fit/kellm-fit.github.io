@@ -199,6 +199,15 @@ acknowledgements: ""
       <h6> Fraunhofer FIT</h6>
     </div>
   </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://nimi-ai.com/sahar-vahdati/">
+      <img class="people-pic" src="https://nimi-ai.com/wp-content/uploads/2022/11/Sahar_Workpage_InfAI-e1604081552642.png">
+    </a>
+    <div class="people-name">
+      <a href="https://nimi-ai.com/sahar-vahdati/">Sahar Vahdati</a>
+      <h6>TU Dresden</h6>
+    </div>
+  </div>
 </div>
 
 

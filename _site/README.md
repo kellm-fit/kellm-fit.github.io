@@ -3,5 +3,5 @@ Webpage source files for Knowledge Enhanced Retrieval Augmented Generation for L
 
 website: https://kellm-fit.github.io/
 
-source : [here] (https://github.com/nl-reasoning-workshop/nl-reasoning-workshop.github.io) 
+source : [here](https://github.com/nl-reasoning-workshop/nl-reasoning-workshop.github.io) 
 
