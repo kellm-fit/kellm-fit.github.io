@@ -50,15 +50,6 @@ acknowledgements: ""
       <h6> Fraunhofer FIT</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://nimi-ai.com/sahar-vahdati/">
-      <img class="people-pic" src="https://nimi-ai.com/wp-content/uploads/2022/11/Sahar_Workpage_InfAI-e1604081552642.png">
-    </a>
-    <div class="people-name">
-      <a href="https://nimi-ai.com/sahar-vahdati/">Sahar Vahdati</a>
-      <h6>TU Dresden</h6>
-    </div>
-  </div>
     <div class="col-xs-6 col-lg-3">
     <a href="https://www.linkedin.com/in/moritz-busch-23a955205/?originalSubdomain=de">
       <img class="people-pic" src="{{ "/static/img/people/moritz.jpg" | prepend:site.baseurl }}">
@@ -116,7 +107,7 @@ acknowledgements: ""
   <li><b>Group Discussion : </b>Participants will engage in a group discussion to share challenges and potential solutions in implementing KELLMs in their own projects. This collaborative session will provide valuable insights and foster knowledge exchange among participants.</li>
  </ul>
  <p>
-   For questions about the tutorial, please contact workshop organizers via <a href="kellm@googlegroups.com">kellm@googlegroups.com</a>.
+   For questions about the tutorial, please contact workshop organizers via <a href="kellm@googlegroups.com">kellm@googlegroups.com</a>. All the materials are available on <a href="https://github.com/kellm-fit/ISWC_tutorial">github</a>.
 
   </p>
   </div>
@@ -136,15 +127,15 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Slot 1: Introduction to Knowledge Graphs, Large Language Models, and RAG systems</td>
-          <td>9:00 - 10:40 (All Time are EDT time.)</td>
+          <td>14:00 - 15:40 </td>
         </tr>
         <tr>
           <td>Break</td>
-          <td>10:40 - 11:10</td>
+          <td>15:40 - 16:00</td>
         </tr>
         <tr>
           <td>Slot 2: Practical Applications and Advanced Techniques</td>
-          <td>11:10 - 12:50</td>
+          <td>16:00 - 17:40</td>
         </tr>
       </tbody>
     </table>
@@ -205,7 +196,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://nimi-ai.com/sahar-vahdati/">Sahar Vahdati</a>
-      <h6>TU Dresden</h6>
+      <h6>Leibniz Universität Hannover</h6>
     </div>
   </div>
 </div>
